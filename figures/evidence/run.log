@@ -1,0 +1,14 @@
+During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+     sample_mean    lower   upper coverage coverage_mcse z_observed
+2.5%    98.06359 94.28237 101.814    0.949   0.006956939   1.370078
+     critical_abs_z simulated_p   exact_p
+2.5%       1.955653   0.1717766 0.1706625
+
+Complete: index.html, blogpost8.md, results/ and data/ generated.

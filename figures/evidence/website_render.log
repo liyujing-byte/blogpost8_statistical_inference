@@ -1,0 +1,47 @@
+[ 1/13] resume.qmd
+[ 2/13] index.qmd
+[ 3/13] blog/posts/post1/lagrange-multipliers.qmd
+During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+
+
+processing file: lagrange-multipliers.qmd
+1/3             
+2/3 [fig-budget]
+3/3             
+output file: lagrange-multipliers.knit.md
+
+[ 4/13] blog/posts/post6/index.qmd
+[ 5/13] blog/posts/post8/index.qmd
+[ 6/13] blog/posts/post7/index.qmd
+[ 7/13] blog/posts/post5/index.qmd
+[ 8/13] blog/posts/post2/index.qmd
+During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+
+
+processing file: index.qmd
+1/3                  
+2/3 [unnamed-chunk-1]
+3/3                  
+output file: index.knit.md
+
+[ 9/13] blog/posts/post3/index.qmd
+[10/13] blog/posts/post4/index.qmd
+[11/13] blog/index.qmd
+WARN: File /Users/liyujing/Documents/Codex/2026-11-02/new-chat-2/website_publish/blog/posts/post8/index.qmd in the listing 'listing' contains no metadata.
+[12/13] about.qmd
+During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+
+
+processing file: about.qmd
+1/3                  
+2/3 [unnamed-chunk-1]
+3/3                  
+output file: about.knit.md
+
+[13/13] bio.qmd
+
+Output created: docs/index.html
+

@@ -1,0 +1,9 @@
+"check","passed"
+"sample size",TRUE
+"no missing data",TRUE
+"bootstrap count",TRUE
+"coverage count",TRUE
+"null count",TRUE
+"ordered CI",TRUE
+"valid p-value",TRUE
+"coverage near 95 percent",TRUE
